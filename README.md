@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 
 👋 Hello. My name is Danila Gonyshev. 
 I'am currently writing fluently in the Python programming language and studying languages such as Java script and C++.
