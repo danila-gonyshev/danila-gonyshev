@@ -13,7 +13,7 @@
 </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=danila-gonyshev&style=flat-square&color=blue" alt=""/>
 
 Hi! You are on the page of web developer Danila Gonyshev.
 
