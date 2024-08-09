@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
-<a href="t.me/danila_gonyshev">
+<a href="https://t.me/danila_gonyshev">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-<a href="vk.com/danila_gonyshev">
+<a href="https://vk.com/danila_gonyshev">
   <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white" alt="VK Badge"/>
 </a>
 <a href="youtube.com/danila_gonyshev">
