@@ -3,13 +3,13 @@
 
 <div id="badges">
 <a href="https://t.me/danila_gonyshev">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-<a href="https://vk.com/danila_gonyshev">
-  <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white" alt="VK Badge"/>
+  <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 <a href="https://www.youtube.com/channel/UC-e3Xlm6nloJAMKSCnkmKSQ">
   <img src="https://img.shields.io/badge/YOUTUBE-red?logo=YOUTUBE&logoColor=white" alt="YouTube Badge"/>
+</a>
+<a href="https://vk.com/danila_gonyshev">
+  <img src="https://img.shields.io/badge/VKONTAKTE-blue?logo=VK&logoColor=white" alt="VK Badge"/>
 </a>
 </div>
 
