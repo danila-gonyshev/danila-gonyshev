@@ -8,7 +8,7 @@
 <a href="https://vk.com/danila_gonyshev">
   <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white" alt="VK Badge"/>
 </a>
-<a href="youtube.com/danila_gonyshev">
+<a href="https://www.youtube.com/channel/UC-e3Xlm6nloJAMKSCnkmKSQ">
   <img src="https://img.shields.io/badge/YOUTUBE-red?logo=YOUTUBE&logoColor=white" alt="YouTube Badge"/>
 </a>
 </div>
