@@ -46,4 +46,4 @@ I am a novice web developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danila-gonyshev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danila-gonyshev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
